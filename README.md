@@ -2,7 +2,7 @@
 
 # SunExposureTracker
 
-This is a specialized health and safety application designed to monitor environmental conditions and provide real-time sun exposure risk assessment for users of HarmonyOS NEXT wearable devices. Built using ArkTS and ArkUI, the application leverages advanced sensor APIs (Ambient Light and Ambient Temperature) to calculate risk and utilizes haptic feedback for critical warnings, all optimized for the circular screen of wearables.
+This is a specialized health and safety application designed to monitor environmental conditions and provide real-time sun exposure risk assessment for users of HarmonyOS wearable devices. Built using ArkTS and ArkUI, the application leverages advanced sensor APIs (Ambient Light and Ambient Temperature) to calculate risk and utilizes haptic feedback for critical warnings, all optimized for the circular screen of wearables.
 # Preview
 
 <div>
